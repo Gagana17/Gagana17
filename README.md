@@ -19,11 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/gagana-gunawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagana-gunawardhana" height="30" width="40" /></a>
 </p>
- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Gagana17&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
 
 <h3 align="left">Languages and Tools:</h3>
